@@ -1,3 +1,8 @@
 {
-    "ratings": [ { "id":5, "vote": 321 }, { "id":4, "vote": 312 }, { "id":3, "vote": 231 }, { "id":2, "vote": 213 }, { "id":1, "vote": 123 } ]
+    "ratings": [ { "id":5, "vote": 321 },
+                { "id":4, "vote": 312 },
+                { "id":3, "vote": 231 },
+                { "id":2, "vote": 213 },
+                { "id":1, "vote": 123 }
+               ]
 }
