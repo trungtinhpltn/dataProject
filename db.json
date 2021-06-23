@@ -1,8 +1,15 @@
+  
 {
-    "ratings": [ { "id":5, "vote": 321 },
-                { "id":4, "vote": 312 },
-                { "id":3, "vote": 231 },
-                { "id":2, "vote": 213 },
-                { "id":1, "vote": 123 }
-               ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
